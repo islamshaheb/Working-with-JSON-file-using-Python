@@ -1,0 +1,16 @@
+I choose Python to complete my task.
+As python has some built-in library for handling 
+Json file and easy to maintain.That's why I choose python.
+
+First of all, I take two Date as User input to find out the activeness of a user.
+And I have to repeat this untill I enter a valid date which is in the data.
+
+Then I have to take the user id to find out the result. It must be an integer.
+If the user id is wrong then the program will set a user id (File Id) manually.
+
+After that, program will convert the date string into time format and calculate
+the total number of meals in this specific period of time and find out the active threshold of a user
+and will show output. 
+
+There are other options to see all dates, all meals in a day. These options are commented .
+We need to comment out to work with these options.
